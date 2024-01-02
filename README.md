@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 6.11.2023
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -24,7 +24,7 @@
 
 
 ### Name: stephen raj.y
-### Register Number:23002248
+### Register Number:212223230217
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
